@@ -1,6 +1,6 @@
 1- 
 CREATE TABLE employee(
-id PRIMARY_KEY INTEGER,
+id INTEGER,
 name VARCHAR(50),
 birthday DATE,
 email VARCHAR(100)
