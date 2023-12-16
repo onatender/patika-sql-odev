@@ -1,0 +1,74 @@
+1- 
+CREATE TABLE employee(
+id PRIMARY_KEY INTEGER,
+name VARCHAR(50),
+birthday DATE,
+email VARCHAR(100)
+);
+
+2-
+
+insert into employee (id, name, birthday, email) values (1, 'Felix', '3/31/2023', 'fstopford0@marketwatch.com');
+insert into employee (id, name, birthday, email) values (2, 'Trista', '2/8/2023', 'thorlick1@usnews.com');
+insert into employee (id, name, birthday, email) values (3, 'Talbot', '10/21/2023', 'thairs2@google.co.uk');
+insert into employee (id, name, birthday, email) values (4, 'Ermin', '9/11/2023', 'eyaus3@newyorker.com');
+insert into employee (id, name, birthday, email) values (5, 'Carol-jean', '10/11/2023', 'cscorey4@patch.com');
+insert into employee (id, name, birthday, email) values (6, 'Cahra', '8/12/2023', 'cjakes5@tinypic.com');
+insert into employee (id, name, birthday, email) values (7, 'Keen', '6/5/2023', 'kdog6@unesco.org');
+insert into employee (id, name, birthday, email) values (8, 'Onfroi', '4/20/2023', 'osarath7@opera.com');
+insert into employee (id, name, birthday, email) values (9, 'Mona', '4/29/2023', 'mlugard8@omniture.com');
+insert into employee (id, name, birthday, email) values (10, 'Care', '7/8/2023', 'chaddacks9@newyorker.com');
+insert into employee (id, name, birthday, email) values (11, 'Kaela', '4/11/2023', 'ktharmea@miitbeian.gov.cn');
+insert into employee (id, name, birthday, email) values (12, 'Jessica', '3/1/2023', 'jclemontsb@wikimedia.org');
+insert into employee (id, name, birthday, email) values (13, 'Annissa', '10/17/2023', 'apalinc@washington.edu');
+insert into employee (id, name, birthday, email) values (14, 'Costanza', '8/12/2023', 'cdixeyd@theatlantic.com');
+insert into employee (id, name, birthday, email) values (15, 'Kelsey', '11/27/2023', 'kdowse@china.com.cn');
+insert into employee (id, name, birthday, email) values (16, 'Ulrich', '9/14/2023', 'uclubleyf@odnoklassniki.ru');
+insert into employee (id, name, birthday, email) values (17, 'Addy', '3/23/2023', 'aibarrag@vkontakte.ru');
+insert into employee (id, name, birthday, email) values (18, 'Gladys', '6/26/2023', 'gtoffelh@wikia.com');
+insert into employee (id, name, birthday, email) values (19, 'Mortimer', '8/27/2023', 'mlathani@tamu.edu');
+insert into employee (id, name, birthday, email) values (20, 'Sheffield', '10/28/2023', 'sknowlesj@ca.gov');
+insert into employee (id, name, birthday, email) values (21, 'Trev', '12/17/2022', 'tdobesonk@cnbc.com');
+insert into employee (id, name, birthday, email) values (22, 'Donalt', '12/1/2023', 'ddodridgel@newyorker.com');
+insert into employee (id, name, birthday, email) values (23, 'Raimondo', '4/12/2023', 'rmayowm@examiner.com');
+insert into employee (id, name, birthday, email) values (24, 'Fee', '3/21/2023', 'fharwinn@cmu.edu');
+insert into employee (id, name, birthday, email) values (25, 'Maurine', '12/27/2022', 'mmathelono@tinypic.com');
+insert into employee (id, name, birthday, email) values (26, 'Danila', '6/5/2023', 'dcluittp@techcrunch.com');
+insert into employee (id, name, birthday, email) values (27, 'Aundrea', '7/26/2023', 'amattocksq@amazon.com');
+insert into employee (id, name, birthday, email) values (28, 'Keane', '4/7/2023', 'kbancroftr@themeforest.net');
+insert into employee (id, name, birthday, email) values (29, 'Sissy', '1/4/2023', 'sculberts@ed.gov');
+insert into employee (id, name, birthday, email) values (30, 'Clevey', '6/8/2023', 'crowellt@weibo.com');
+insert into employee (id, name, birthday, email) values (31, 'Ysabel', '11/2/2023', 'yfilliskirku@netvibes.com');
+insert into employee (id, name, birthday, email) values (32, 'Simona', '11/17/2023', 'sfaldoev@ifeng.com');
+insert into employee (id, name, birthday, email) values (33, 'Claresta', '12/31/2022', 'caynoldw@ebay.com');
+insert into employee (id, name, birthday, email) values (34, 'Anita', '10/15/2023', 'alavallx@stanford.edu');
+insert into employee (id, name, birthday, email) values (35, 'Selina', '11/7/2023', 'sglanfieldy@ucla.edu');
+insert into employee (id, name, birthday, email) values (36, 'Felicia', '8/24/2023', 'fsherrz@whitehouse.gov');
+insert into employee (id, name, birthday, email) values (37, 'Wini', '10/26/2023', 'wkerrey10@themeforest.net');
+insert into employee (id, name, birthday, email) values (38, 'Padgett', '2/1/2023', 'pclements11@mac.com');
+insert into employee (id, name, birthday, email) values (39, 'Lilli', '8/16/2023', 'lsavage12@soundcloud.com');
+insert into employee (id, name, birthday, email) values (40, 'Sandy', '8/28/2023', 'soverland13@stanford.edu');
+insert into employee (id, name, birthday, email) values (41, 'Mord', '10/1/2023', 'mcaudell14@globo.com');
+insert into employee (id, name, birthday, email) values (42, 'Yvette', '3/29/2023', 'ycrutch15@berkeley.edu');
+insert into employee (id, name, birthday, email) values (43, 'Joann', '10/4/2023', 'jnield16@phpbb.com');
+insert into employee (id, name, birthday, email) values (44, 'Ashlee', '5/4/2023', 'acastelli17@com.com');
+insert into employee (id, name, birthday, email) values (45, 'Gaylord', '12/8/2023', 'gyankin18@ebay.co.uk');
+insert into employee (id, name, birthday, email) values (46, 'Cherye', '8/13/2023', 'cnadin19@icq.com');
+insert into employee (id, name, birthday, email) values (47, 'Iseabal', '8/22/2023', 'icreus1a@cam.ac.uk');
+insert into employee (id, name, birthday, email) values (48, 'Carl', '4/8/2023', 'cposnett1b@ucsd.edu');
+insert into employee (id, name, birthday, email) values (49, 'Jerrie', '1/28/2023', 'jshipp1c@dmoz.org');
+insert into employee (id, name, birthday, email) values (50, 'Rea', '10/3/2023', 'rdrinan1d@cdbaby.com');
+
+3- 
+UPDATE employee SET name = 'Onat' WHERE id = 33;
+UPDATE employee SET email = 'ae@gmail.com' WHERE id = 33;
+UPDATE employee SET birthdate = '11/1/2010' WHERE id = 11;
+UPDATE employee SET name = 'Mustafa' WHERE id = 1;
+UPDATE employee SET name = 'Aslan' WHERE id = 45;
+
+4-
+DELETE FROM employee WHERE name = 'Onat';
+DELETE FROM employee WHERE email = 'cnadin19@icq.com';
+DELETE FROM employee WHERE birthday = '12/8/2023';
+DELETE FROM employee WHERE id > 33;
+DELETE FROM employee WHERE name = 'Mustafa';
